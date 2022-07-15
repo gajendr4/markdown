@@ -1,0 +1,14 @@
+@use '@carbon/react';
+
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+html{
+    background: white;
+}
+
+body{
+    font-size: 23px;
+    line-height: 36px;
+    mix-blend-mode: difference;
+    font-family: 'Merienda', cursive;
+}
